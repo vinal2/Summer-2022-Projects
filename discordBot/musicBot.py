@@ -4,8 +4,8 @@ from discord.ext.commands.bot import Bot
 import youtube_dl
 import os
 
-DISCORD_TOKEN = 'OTg4ODQ5MjAxMjI2MDg4NDY4.GD1kB3.v7D7W7cmUNFqCUoUP98rpI2I3GNzOeGGgmUvf4'
-api_key = 'AIzaSyC7eVmtuoX23kfqwTwXlg3vCwfb3yTe46g'
+DISCORD_TOKEN = 'insert discord token'
+api_key = 'insert bot api key'
 bot = commands.Bot(command_prefix="=")
 
 class Music(commands.Cog):
